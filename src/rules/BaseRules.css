@@ -1,0 +1,11 @@
+ROOT > Card {
+	
+}
+
+
+ROOT > ~Card {
+	paddingLeft: 16;
+	paddingRight:16;
+	paddingTop:24;
+	paddingBottom:24;
+}

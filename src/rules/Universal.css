@@ -1,0 +1,19 @@
+
+
+TestComp > div {
+	border: 1px solid #cecece;
+}
+
+TestComp {
+	test: Kamp;
+	x: 5;
+
+}
+
+p {
+	fontSize: range(20,40);
+}
+
+header $> div {
+	border: 1px solid green;
+} 
